@@ -2,7 +2,6 @@ import tensorflow as tf
 import pickle
 import os
 
-
 #PART1
 data_dir = './prepared'
 img_height = 300
