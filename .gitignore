@@ -1,3 +1,7 @@
 env/
 data/
 .vscode/
+data_scripts/logs/
+data_scripts/examples/
+models/
+results/
